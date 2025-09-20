@@ -1,3 +1,3 @@
 # pamu-1demo
 This is my first repository
-Author - parmeshwar iname
+Author - Parmeshwar Iname
